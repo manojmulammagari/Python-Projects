@@ -13,7 +13,7 @@ Welcome to my collection of Python applications and small projects, built to pra
 
 - Python 3.x
 
-## 📜 License 
+## 📜 License
 
 MIT License
 
