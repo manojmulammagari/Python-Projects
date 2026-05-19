@@ -23,7 +23,7 @@ while True:
 
     if youstr=='q':
         print(f"\nFinal score - You:{user_score} | Computer: {comp_score} | Draw: {draw} ")
-        print("Thank you for playing") 
+        print("Thank you for playing")
         break
 
     if youstr not in ("s","w","g"):
