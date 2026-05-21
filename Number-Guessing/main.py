@@ -9,6 +9,7 @@ def number_guessing_game():
         try:
             guess = int(input("Guess the number (between 1 and 100): "))
             attempts += 1
+            
 
             if guess < target_number:
                 print("Higher number please.")
