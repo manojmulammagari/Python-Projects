@@ -14,7 +14,7 @@ Here are the mini-projects included in this repository. Click on the project lin
 | Project Name                | Description                                                       | Link                                      |
 | :-------------------------- | :---------------------------------------------------------------- | :---------------------------------------- |
 | **Snake-Water-Gun** 🐍💧🔫  | A classic text-based hand-gesture game against the computer.      | [View Project](Snake-Water-Gun/README.md) |
-| **Number Guessing Game** 🔢 | An interactive game where you guess the computer's secret number. | [View Project](Project%202/README.md)     |
+| **Number Guessing Game** 🔢 | An interactive game where you guess the computer's secret number. | [View Project](Number-Guessing/README.md)     |
 
 ---
 
