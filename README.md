@@ -7,6 +7,7 @@ Welcome to my collection of Python applications and small projects! This reposit
 
 ---
 
+
 ## 📁 Project List
 
 Here are the mini-projects included in this repository. Click on the project links to view their specific rules and instructions!
@@ -14,7 +15,7 @@ Here are the mini-projects included in this repository. Click on the project lin
 | Project Name                | Description                                                       | Link                                      |
 | :-------------------------- | :---------------------------------------------------------------- | :---------------------------------------- |
 | **Snake-Water-Gun** 🐍💧🔫  | A classic text-based hand-gesture game against the computer.      | [View Project](Snake-Water-Gun/README.md) |
-| **Number Guessing Game** 🔢 | An interactive game where you guess the computer's secret number. | [View Project](Number-Guessing/README.md)     |
+| **Number Guessing Game** 🔢 | An interactive game where you guess the computer's secret number. | [View Project](Number-Guessing/README.md) |
 
 ---
 
@@ -31,6 +32,7 @@ If you want to try out these projects on your own machine:
    cd "Number-Guessing"
    python main.py
    ```
+
 
 ---
 
