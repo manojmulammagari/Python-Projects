@@ -10,7 +10,7 @@ In this game, the computer randomly selects a number between 1 and 100. Your goa
 
 - **Randomized Gameplay**: A new number is generated every time you play.
 - **Input Validation**: The game handles invalid inputs (like letters or symbols) gracefully using `try-except` blocks without crashing.
-- **Attempt Tracking**: Keeps count of how many tries it took you to win.
+- **Attempt Tracking**: Keeps count of how many tries it took you to win. 
 
 
 ## Prerequisites
