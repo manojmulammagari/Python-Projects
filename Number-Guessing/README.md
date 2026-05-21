@@ -25,7 +25,7 @@ In this game, the computer randomly selects a number between 1 and 100. Your goa
 4. Run the script using the following command:
 
    ```bash
-   python main.py
+   python main.py 
    ```
 
 ## Example Output
