@@ -24,11 +24,11 @@ If you want to try out these projects on your own machine:
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/manojmulammagari/YOUR-REPO-NAME.git
+   git clone https://github.com/manojmulammagari/Mini-Projects.git
    ```
 2. **Navigate to a specific project folder and run it:**
    ```bash
-   cd "Project 2"
+   cd "Number-Guessing"
    python main.py
    ```
 
