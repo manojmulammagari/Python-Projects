@@ -1,4 +1,4 @@
-#  My Python Mini-Projects 🚀
+# My Python Mini-Projects 🚀
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -11,10 +11,10 @@ Welcome to my collection of Python applications and small projects! This reposit
 
 Here are the mini-projects included in this repository. Click on the project links to view their specific rules and instructions!
 
-| Project Name | Description | Link |
-| :--- | :--- | :--- |
-| **Snake-Water-Gun** 🐍💧🔫 | A classic text-based hand-gesture game against the computer. | View Project |
-| **Number Guessing Game** 🔢 | An interactive game where you guess the computer's secret number. | View Project |
+| Project Name                | Description                                                       | Link                                      |
+| :-------------------------- | :---------------------------------------------------------------- | :---------------------------------------- |
+| **Snake-Water-Gun** 🐍💧🔫  | A classic text-based hand-gesture game against the computer.      | [View Project](Snake-Water-Gun/README.md) |
+| **Number Guessing Game** 🔢 | An interactive game where you guess the computer's secret number. | [View Project](Project%202/README.md)     |
 
 ---
 
@@ -44,4 +44,5 @@ If you want to try out these projects on your own machine:
 This repository is licensed under the MIT License.
 
 ---
-*Thanks for visiting! Feel free to explore the folders and try the games!* 🎮
+
+_Thanks for visiting! Feel free to explore the folders and try the games!_ 🎮
