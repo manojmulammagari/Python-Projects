@@ -22,7 +22,7 @@ def number_guessing_game():
                 break
         
         except ValueError:
-            print("Invalid input! Please enter a valid integer.") 
+            print("Invalid input! Please enter a valid integer.")
             
 
 if __name__ == "__main__":
